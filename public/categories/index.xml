@@ -1,10 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Stanislav Kozin&#39;s Webpage</title>
-    <link>https://kozin.cc/categories/</link>
-    <description>Recent content in Categories on Stanislav Kozin&#39;s Webpage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kozin.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+  <title>Stanislav Kozin&#39;s Webpage</title>
+  <link>https://kozin.cc/categories/</link>
+  <description>Recent content in Categories on Stanislav Kozin&#39;s Webpage</description>
+  <generator>Hugo -- gohugo.io</generator>
+  <language>en-us</language>
+    
+        <atom:link href="https://kozin.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>My Salvation Testimony</title>
+    <link>https://kozin.cc/testimony/</link>
+    <pubDate>Thu, 15 Sep 2022 19:49:53 -0600</pubDate>
+    
+    <guid>https://kozin.cc/testimony/</guid>
+    <description>&lt;p&gt;I was born in 1982 in ex-USSR, in one of the &amp;ldquo;stans&amp;rdquo; land - Kazakhstan&lt;/p&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>What if you die today?</title>
+    <link>https://kozin.cc/salvation/</link>
+    <pubDate>Thu, 15 Sep 2022 19:43:04 -0600</pubDate>
+    
+    <guid>https://kozin.cc/salvation/</guid>
+    <description>&lt;h2 id=&#34;a&#34;&gt;A&lt;/h2&gt;
+&lt;h2 id=&#34;b&#34;&gt;B&lt;/h2&gt;
+&lt;h2 id=&#34;c&#34;&gt;C&lt;/h2&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>About Stanislav</title>
+    <link>https://kozin.cc/about/</link>
+    <pubDate>Thu, 15 Sep 2022 17:49:46 -0600</pubDate>
+    
+    <guid>https://kozin.cc/about/</guid>
+    <description>&lt;p&gt;I was born in , and that was a day, yay!&lt;/p&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>Books I Read and Recommend</title>
+    <link>https://kozin.cc/books/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+    
+    <guid>https://kozin.cc/books/</guid>
+    <description>&lt;h2 id=&#34;the-monarch-of-the-books&#34;&gt;The Monarch of The Books&lt;/h2&gt;
+&lt;p&gt;If you put a gun to my head and tell me that I can have only one book and one only without any hesitation and second thought, I would tell you, &amp;ldquo;The Holy Bible AV1611!&amp;rdquo;&lt;/p&gt;
+
+&lt;figure &gt;
+	&lt;center&gt;&lt;a href=&#34;https://store.kjv1611.org/bible-mountain-postcard/&#34;&gt;&lt;img src=&#34;https://kozin.cc/bible_mountain.jpeg&#34; style=&#34;height:450px;&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;Bible Mountain by Dr. Peter S. Ruckman&lt;/figcaption&gt;&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>My Adventure Riding</title>
+    <link>https://kozin.cc/moto/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+    
+    <guid>https://kozin.cc/moto/</guid>
+    <description>&lt;h2 id=&#34;adventire-riding-motorcycles&#34;&gt;Adventire Riding Motorcycles&lt;/h2&gt;
+&lt;p&gt;This page is about my adventure motorcycles&lt;/p&gt;
+</description>
+  </item>
+  
+  <item>
+    <title>Stanislav&#39;s Blog Posts</title>
+    <link>https://kozin.cc/blog/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+    
+    <guid>https://kozin.cc/blog/</guid>
+    <description>&lt;h2 id=&#34;blog&#34;&gt;Blog&lt;/h2&gt;
+&lt;p&gt;This is my blogposts&lt;/p&gt;
+</description>
+  </item>
+  
   </channel>
 </rss>
