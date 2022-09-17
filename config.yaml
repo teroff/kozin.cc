@@ -1,0 +1,36 @@
+baseURL: https://kozin.cc/
+languageCode: en-us
+title: Stanislav Kozin's Webpage
+theme: kozin
+
+defaultContentLanguage: en
+
+Languages:
+  en:
+    contentDir: content/eng
+    weight: 0
+    languagename: 🇺🇸
+    title: Stanislav Kozin' Homepage
+    menu:
+        main:
+          - url: /
+            name: Home
+            weight: 0
+          - url: /about/
+            name: About
+            weight: 1
+
+
+  ru:
+    contentDir: content/rus
+    weight: 1
+    languagename: 🇷🇺
+    title: Станислав Козин
+    menu:
+      main:
+        - url: /
+          name: Домой
+          weight: 0
+        - url: /about/
+          name: Обо Мне
+          weight: 1

@@ -1,0 +1,4 @@
+{{ range $.Site.Home.AllTranslations }}
+<p></p>
+<a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+{{ end }}

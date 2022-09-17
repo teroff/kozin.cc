@@ -1,0 +1,8 @@
+- id: pageTranslation
+  translation: This page in 
+
+- id: language
+  translation: language
+
+- id: footerInfo
+  translation: Дополнительная информация
