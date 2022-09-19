@@ -5,6 +5,11 @@ theme: kozin
 
 defaultContentLanguage: en
 
+# markup:
+#   goldmark:
+#     renderer:
+#       unsafe: true
+
 Languages:
   en:
     contentDir: content/eng
