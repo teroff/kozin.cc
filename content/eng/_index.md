@@ -24,4 +24,4 @@ My trips: - ditto
 I like to read, and read a lot. Here is a list of the books I have read and highly recommend to others to read.
 
 ## Computers & Linux
-I use Arch Linux and mostly old computers.
+I use Debian Linux and mostly old computers.

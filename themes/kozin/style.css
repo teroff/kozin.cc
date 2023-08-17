@@ -1,14 +1,30 @@
+html {
+    border: 0px;
+    height: 100%;
+    color:#000000;
+    font-family:Arial, Tahoma, Verdana, sans-serif;
+    font-size:13px;
+    font-weight: normal;
+    line-height:18px;
+    background-color: rgb(254,254,238)
+}
+
 body {
     margin: 40px auto;
-    max-width: 800px;
+    max-width: 1220px;
     line-height: 1.4em;
     font-family: sans-serif;
     color: #222;
     padding: 0 1em;
-    background: #FEFEEE;
+    background: rgb(254,254,238)
 }
 
 nav {
+    width: 100%;
+    float: left;
+    position: relative;
+    bottom: 0px;
+    margin-top: 15px;
     text-align: center;
     padding-bottom: 0.1em;
     padding-top: 0.1em;

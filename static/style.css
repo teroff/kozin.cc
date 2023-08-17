@@ -1,26 +1,40 @@
+html, body {
+    height: 100%;
+}
+
 body {
     margin: 40px auto;
-    max-width: 800px;
+    max-width: 1220px;
     line-height: 1.4em;
     font-family: sans-serif;
     color: #222;
     padding: 0 1em;
-    background: #FEFEEE;
+    background: rgb(254,254,238)
 }
 
 nav {
+    width: 100%;
+    max-width: 1220px;
+    float: left;
+    position: relative;
+    bottom: 0.1em;
+    margin-top: 0.2em;
     text-align: center;
-    padding-bottom: 0.1em;
-    padding-top: 0.1em;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+    font-size: 1.2em;
 }
 
 p, h1, h2, h3, h4, h5, h6 { overflow-wrap:break-word; }
+
+h1 {
+    text-align: center;
+}
 
 p {
     display: block;
     padding: 0.2em;
     padding-left: 0em;
-    margin: 0em;
 }
 
 .info-red { color:#721c24; background-color:#f8d7da; border-color:#f5c6cb; }

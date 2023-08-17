@@ -1,5 +1,5 @@
 ---
-title: "Books I Recommend"
+title: "Книги к прочтению"
 date: 2022-09-15T17:49:46-06:00
 translationKey: books
 ---

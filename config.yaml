@@ -5,6 +5,9 @@ theme: kozin
 
 defaultContentLanguage: en
 
+Params:
+  logo: images/header.png
+
 Languages:
   en:
     contentDir: content/eng
