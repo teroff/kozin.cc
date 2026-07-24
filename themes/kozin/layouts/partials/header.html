@@ -4,3 +4,9 @@
     {{- partial "navigation.html" . -}}
 </header>
 <hr style="clear: both">
+{{- if eq .Lang "ru" -}}
+  {{- partial "ffrus.html" . -}}
+{{- else -}}
+  {{- partial "ffbr.html" . -}}
+{{- end -}}
+<hr style="clear: both">

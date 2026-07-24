@@ -1,5 +1,4 @@
 baseURL: https://kozin.cc/
-languageCode: en-us
 title: Stanislav Kozin's Webpage
 theme: kozin
 
@@ -7,12 +6,16 @@ defaultContentLanguage: en
 
 Params:
   logo: images/header.png
+  author:
+    name: Stanislav Kozin
+    email: stan@kozin.cc
 
 Languages:
   en:
     contentDir: content/eng
     weight: 0
-    languagename: 🇺🇸
+    locale: en-us
+    label: 🇺🇸
     title: Stanislav Kozin' Homepage
     menu:
         main:
@@ -27,7 +30,8 @@ Languages:
   ru:
     contentDir: content/rus
     weight: 1
-    languagename: 🇷🇺
+    locale: ru-ru
+    label: 🇷🇺
     title: Станислав Козин
     menu:
       main:
